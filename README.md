@@ -42,7 +42,7 @@ Det er ikke nødvendigvis den letteste opgave først og den sværeste sidst i de
      Ex:  Købehavn, 6, 4  skal . give outputtet 'avn'
      
      
- ## Task 4.  - print ordet hvis det er et palindrom (kan skrive bagfra og forfra uden at ændre sig)
+ ## Task 4.  - print ordet hvis det er et palindrom 
      1.a Skriv en metode printIfPalindrome() som tager en tekststreng som argument og printer den HVIS den kan skrives bagfra uden at ændre sig. (Hint: Lad dig inspirere i dokumentationen for String klassen)
      1.b Sørg for at metoden ikke er case-sensitiv.
      1.c Kald metoden fra main med argumentet "Den laks skal ned", for at teste den.
