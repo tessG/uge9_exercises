@@ -2,7 +2,8 @@ g# uge9_exercises
 Exercises for week 9
 
 Opgaverne tager udgangspunkt i StringWorks projektet som vi startede op i tirsdagens lektion. Her loadede vi noget tekst og lagde det ind i en datafil.
-Herefter byggede vi nogle metoder der foretog forskellige analyser på teksten. Så start med at finde projektet frem. Hvis du ikke har projektet kan det findes som link under flow 1 på moodle.
+Herefter byggede vi nogle metoder der foretog forskellige analyser på teksten. Så start med at finde projektet frem. Hvis du ikke har projektet selv, ligger der en version i dette repository du kan starte fra.
+
 I to første opgaver skal du fortsætte med at analysere samme tekst. I de to sidste skal du tilføje metoder som bare arbejder med en enkelt streng som du sender med som argument.
 
 Som altid, fortvivl ikke hvis en opgave er for svær. Selvom  jeg har prøvet at sørge for at nogle af opgaverne er nemme, skal der ikke så meget til før det bliver kompliceret.
